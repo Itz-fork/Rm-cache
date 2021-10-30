@@ -2,8 +2,8 @@
 
 # Header
 start() {
-    echo -e "\e[1m\e[101m Script by Itz-fork \e[0m \n\n"
-    echo -e "\n📝 \e[1m Say good bye to __pycache__ folders \e[0m"
+    echo -e "\e[1m\e[101m Script by Itz-fork \e[0m \n"
+    echo -e "\n📝 \e[1m Say good bye to __pycache__ folders \e[0m \n\n"
 }
 
 # Write down all sub dirs to one text file
